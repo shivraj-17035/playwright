@@ -1,0 +1,12 @@
+{
+  "name": "repair-manager-ui-automation",
+  "version": "1.0.0",
+  "description": "e2e ui automation POC",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "~1.29.1"
+  }
+}
